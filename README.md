@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Pablo Ramírez
 
-<!--
-**pabloramirez-code/pabloramirez-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ingeniero Informático | Full-Stack Developer | AI Automation Specialist
 
-Here are some ideas to get you started:
+Me especializo en el desarrollo de soluciones digitales que combinan la robustez del **desarrollo web profesional** con la agilidad de la **automatización inteligente**. Como desarrollador independiente, ayudo a transformar ideas en productos funcionales y procesos optimizados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Mi Enfoque
+- **Desarrollo Web End-to-End:** Construcción de aplicaciones modernas, escalables y seguras desde el concepto hasta el despliegue.
+- **Orquestación de IA con n8n:** Diseño de arquitecturas que conectan servicios de IA (OpenAI, Anthropic) con flujos de trabajo operativos para maximizar la eficiencia.
+- **Soluciones Low-Code/No-Code:** Integración de herramientas de automatización en stacks tecnológicos tradicionales.
+
+---
+
+### 🛠️ Stack Tecnológico
+
+| Categoría | Tecnologías y Herramientas |
+| :--- | :--- |
+| **Frontend** | React, Vue.js, Tailwind CSS, JavaScript (ES6+) |
+| **Backend** | Node.js, Python, PostgreSQL, MongoDB |
+| **Automatización & IA** | **n8n**, LangChain, OpenAI API, Make |
+| **Infraestructura** | Git, Docker, Vercel, AWS |
+
+---
+
+### 🤖 Especialidad en Automatización (n8n)
+Utilizo **n8n** como motor de orquestación para:
+* ✅ Integrar agentes de IA en flujos de atención al cliente.
+* ✅ Automatizar la extracción y procesamiento de datos complejos.
+* ✅ Sincronizar ecosistemas de aplicaciones SaaS (CRM, ERP, Marketing).
+
+---
+
+### 📫 Hablemos de tu proyecto
+Estoy siempre abierto a colaborar en proyectos desafiantes o consultorías técnicas.
+
+- **LinkedIn:** (https://www.linkedin.com/in/pablo-ramirez-lacalle-31a22b2b7/)
+- **Email:** pabloramirezlacalle@gmail.com
+
+
+*"Ingeniería aplicada a la eficiencia."*
