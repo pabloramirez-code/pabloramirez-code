@@ -17,10 +17,10 @@ Me especializo en el desarrollo de soluciones digitales que combinan la robustez
 
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Frontend** | React, Vue.js, Tailwind CSS, JavaScript (ES6+) |
-| **Backend** | Node.js, Python, PostgreSQL, MongoDB |
-| **Automatización & IA** | **n8n**, LangChain, OpenAI API, Make |
-| **Infraestructura** | Git, Docker, Vercel, AWS |
+| **Frontend** | React, Tailwind CSS, JavaScript (ES6+) |
+| **Backend** | Node.js, Python, PostgreSQL, Spring|
+| **Automatización & IA** | **n8n**, OpenAI API, Make |
+| **Infraestructura** | Git, Docker, Kubernetes |
 
 ---
 
